@@ -1,5 +1,5 @@
 # SCT_SD_04
-🔍 Python script to scrape product data (name, price, rating, reviews, etc.) from Amazon and save it in a structured CSV format. Developed as Task 4 of SkillCraft Technology's Software Development Internship.
+🔍 Python script to scrape product data (name, price, reviews, etc.) from Amazon and save it in a structured CSV format. Developed as Task 4 of SkillCraft Technology's Software Development Internship.
 
 # 🛍️ Amazon Product Scraper
 
@@ -9,7 +9,7 @@ The objective is to develop a Python script that scrapes product details from Am
 ## 📌 Task Description
 
 > **TASK 04**  
-Create a program that extracts product information, such as names, prices, and ratings, from an online e-commerce website and stores the data in a structured format like a CSV file.
+Create a program that extracts product information, such as names, prices, reviews e.t.c from an online e-commerce website and stores the data in a structured format like a CSV file.
 
 ## 🚀 Features
 
@@ -17,7 +17,6 @@ Create a program that extracts product information, such as names, prices, and r
 - 📄 Extracts:
   - Product Name
   - Price
-  - Rating
   - Number of Reviews
   - Product URL
   - Image URL

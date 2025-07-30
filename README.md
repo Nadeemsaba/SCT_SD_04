@@ -62,7 +62,8 @@ laptop_products.csv
 
 ## 📸 Screenshot
 
-![Task Screenshot](WhatsApp%20Image%202025-07-26%20at%206.53.44%20PM.jpeg)
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/7f312b24-6a64-4db8-a28e-15f2328c2417" />
+
 
 ## 📌 Internship Credit
 
